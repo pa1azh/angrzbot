@@ -7,7 +7,7 @@ from typing import Dict
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = "8120519828:AAGeOBM9QM1UByZkRY068b0UbNR6GI89awU"
+TOKEN = "YOUR TOKEN"
 bot = telebot.TeleBot(TOKEN)
 
 RANDOM_MESSAGES = [
